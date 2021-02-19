@@ -1,4 +1,4 @@
-# DriverDrowsinessDetectionBasedOnYawningDetection
+# Driver Drowsiness Detection Based On Yawning Detection
 
 The idea behind this project is because of the high workload driver has an inadequate sleep schedule. This is one of the factors
 of road accidents.
